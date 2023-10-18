@@ -20,4 +20,5 @@ Ejecutamos
 bash revshell.sh
 ```
 
-Por último seleccionas el tipo de reverse shell que quieras generar, escribes la IP, el Puerto y el Script te genera la shell.
+# Por último seleccionas el tipo de reverse shell que quieras generar, escribes la IP, el Puerto y el Script te genera la shell.
+<img align="center" height="500" width="1000" alt="GIF" src="https://github.com/Yextep/Auto-Reverse-Shell-Generator/assets/114537444/86e5ba90-a2d9-4faa-bab1-b42a949d538a"/>
